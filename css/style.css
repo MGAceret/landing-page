@@ -39,7 +39,26 @@
     align-items: center;
 }
 
-#body2 {
+#body2, #body3 {
     flex-direction: column;
     align-items: center;
+}
+
+#body3 {
+    background: #E5E7EB;
+    padding: 10px 300px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300px;
+    font-style: italic;
+}
+
+.author {
+    align-self: end;
+    margin-top: 10px;
+    font-size: 24px;
+    font-weight: bold;
 }
