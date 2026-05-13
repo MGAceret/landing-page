@@ -24,3 +24,17 @@
 .link li {
     padding-right: 30px;
 }
+
+#body1,
+#body2,
+#body3,
+#body4 {
+    display: flex;
+    padding: 80px 0;
+}
+
+#body1 {
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
