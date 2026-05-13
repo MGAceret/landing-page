@@ -5,7 +5,7 @@
 }
 
 .hero {
-    background: #1f2937;
+    background: #4A1818;
     color: #F9FAF8;
     padding: 30px 250px;
 }
@@ -66,7 +66,7 @@
     width: 100px;
     height: 30px;
     border-radius: 10px;
-    background: #3882F6;
+    background: #C99700;
     color: #E5E7EB;
     border: none;
     font-weight: bold;
@@ -90,7 +90,7 @@
 .list img {
     height: 200px;
     width: 200px;
-    border: 4px solid #3882F6;
+    border: 4px solid #C99700;
     border-radius: 20px;
 }
 
@@ -119,7 +119,7 @@
 }
 
 .cta {
-    background: #3882F6;
+    background: #C99700;
     color: white;
     padding: 50px;
     border-radius: 10px;
