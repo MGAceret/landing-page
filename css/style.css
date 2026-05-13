@@ -7,12 +7,21 @@
 .hero {
     background: #1f2937;
     color: #F9FAF8;
+    padding: 30px 250px;
+}
+
+#header, #footer {
+    display: flex;
 }
 
 #header {
-    display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
 }
 
 .link, .list {
@@ -88,4 +97,8 @@
     width: 140px;
     height: 40px;
     font-weight: bold;
+}
+
+#footer {
+    justify-content: center;
 }
